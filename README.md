@@ -8,6 +8,14 @@
 | Windows | [下载源码](TransferStation-Windows-Source.zip) |
 | iPhone | [下载源码](TransferStation-iPhone-Source.zip) |
 
+## 应用下载
+
+[打开安装包下载页](https://github.com/YuntuAGI/boluo_Huchuangtai/releases/tag/v1.0.0)
+
+- [Mac Apple Silicon 应用包](https://github.com/YuntuAGI/boluo_Huchuangtai/releases/download/v1.0.0/TransferStation-Mac-AppleSilicon.zip)：解压后将应用放入「应用程序」。
+- [Windows EXE](https://github.com/YuntuAGI/boluo_Huchuangtai/releases/download/v1.0.0/TransferStation-Windows.exe)：下载后双击运行。
+- iPhone 暂无通用安装包，请用下方源码通过自己的 Apple 账号签名安装。
+
 ## 功能
 
 在同一局域网内互传文字、照片和文件。Mac 版支持后台常驻与悬浮组件；iPhone 版连接电脑会话，需要电脑保持开启。
